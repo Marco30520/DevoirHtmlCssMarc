@@ -1,0 +1,26 @@
+.button1{
+    background-color: #e82a6e ;
+}
+.button2{
+    background-color: #F91C1C;
+}
+.button3{
+   background-color: #ff7b00;
+}
+.button4{
+    background-color: #85C61E;
+}
+
+article img{
+    width: 180px;
+    display: flex;
+    align-items: center;
+}
+
+h1, h2, h3, h4, h5{
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+
